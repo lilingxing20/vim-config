@@ -9,3 +9,7 @@ cp -f freya.vim /usr/share/vim/vim74/colors/
 vim ~/.bashrc
 
 export TERM=xterm-256color
+
+
+
+# vim: tabstop=4 shiftwidth=4 softtabstop=4
